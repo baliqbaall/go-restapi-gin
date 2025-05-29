@@ -1,0 +1,14 @@
+# IDE related files
+.vscode/
+
+# Compiled binaries
+*.exe
+*.bin
+*.test
+*.wasm
+
+# Dependency folder (if you use 'go mod vendor')
+vendor/
+
+# Environment variables file
+.env
