@@ -1,4 +1,4 @@
-# Nama Proyek Anda (misalnya: Go Gin REST API)
+# Go Gin REST API
 
 A simple RESTful API built with Go and the Gin web framework. This project demonstrates basic CRUD operations for products.
 
